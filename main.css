@@ -26,9 +26,9 @@ ul a {
 }
 
 .first-starters img {
-    display: flex;
-   /* justify-content: center; */
-    margin: 50px;
+   /* display: flex; */
+    justify-content: center;
+    /* margin: 50px; */
     flex-wrap: wrap;
     flex-direction: row;
 }
