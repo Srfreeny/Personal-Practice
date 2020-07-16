@@ -24,3 +24,11 @@ ul a {
     padding: 1em;
 
 }
+
+.first-starters img {
+    display: flex;
+   /* justify-content: center; */
+    margin: 50px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
