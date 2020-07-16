@@ -1,0 +1,26 @@
+body {
+    background-color: steelblue;
+}
+
+.navigation {
+    background-color: lightblue;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+ul {
+    list-style: none; 
+    display: flex;
+    text-transform: uppercase;
+}
+
+ul a {
+    display: block;
+    text-decoration: none;
+    letter-spacing: .45em;
+    list-style: none; 
+    padding: 1em;
+
+}
