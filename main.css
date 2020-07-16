@@ -25,10 +25,31 @@ ul a {
 
 }
 
-.first-starters img {
-   /* display: flex; */
-    justify-content: center;
-    /* margin: 50px; */
-    flex-wrap: wrap;
-    flex-direction: row;
+div {
+   margin-right: auto;
+   margin-left: auto;
+   display: block;
 }
+
+.first-starters img {
+    display: inline-block;
+    justify-content: center;
+    border: solid red; 
+  
+}
+
+.second-form img {
+     display: inline-block;
+     justify-content: center;
+     border: solid red; 
+     
+     flex-direction: row;
+ }
+
+ .final img {
+    display: inline-block;
+     justify-content: center;
+     border: solid red;
+     padding: 40em;
+     flex-direction: row;
+ }
